@@ -1,1 +1,1 @@
-# PSM(Procurement and Supply Management)-Assessment
+# PSM(Procurement and Supply Management) Assessment
